@@ -2,7 +2,7 @@ Hi, I'm Sudhanshu Shukla.
 
 -Interests: 
     -Technology and software development, with a focus on AI and machine learning.
-    -Web Dev with a twist of AI and UI/UX
+    -Web Dev with a twist of AI and UI/UX.
     -Game Development
 -Current Ongoing Projects:
     ECHO: Electronic companion for household organization.
